@@ -1,0 +1,82 @@
+## Assignment 4: Open source project 
+ # Sara June Connon
+ # GIS 610
+
+
+### R statistical software ###
+R is a language and environment for statistical computing and graphics. 
+It is a GNU project which is similar to the S language and environment
+which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies)
+by John Chambers and colleagues.
+
+## Website
+
+https://www.r-project.org
+
+## Why I chose this project:
+R is a powerful open source tool for statistical computing and used extensively in the field of Ecology. 
+
+## Project license
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+Copyright (C) 1989, 1991 Free Software Foundation, Inc
+It compiles and runs on a wide variety of UNIX platforms and similar systems 
+(including FreeBSD and Linux), Windows and MacOS.
+
+## Reporting bugs
+The developers walk users through a 5 step process of reporting bugs.
+1. Making sure your problem is a bug.
+2. Where to submit bug reports (a portal called "Bugzilla").
+3. How to write useful and productive bug reports.
+4. How to submit patches.
+5. What to do if something goes wrong.
+
+## Request new features
+New features and bug fixes of the latest release version of R are documented
+in the file NEWS (also contained in the R sources).
+"R-announce" is an area of important announcements posted by the R Core Development team.
+
+## Asking questions
+Before asking for help on the internet, it is recommended to try to help myself. 
+The 'help()' function and '?' help operator in R provides access to documentation
+pages for R functions, data sets and other objects for packages in the standard
+R distribution and contributed packages. 
+For help online, I'm able to use internet search sites specialized for for R searches,
+including search.r-project.org and Rseek.org.
+
+## Contact developers
+The R developers consists of a large team of individuals called the "R Core Team" who are
+spread out throughout the world. The original R was initially written by Robert Gentleman 
+and Ross Ihaka in 1997. Contact to developers isn't direct but there are forums and others
+out there with the expertise to ask questions if needed. There is an R email list for 
+answering questions about R. 
+R-help for general help
+R-devel for R code development
+R-package-devel list for developers of CRAN packages. 
+
+## Commercial support
+After searching for help in all of the above mentioned places, there is also support
+through a help and discussion site called Stack Overflow for all programming questions.
+
+## Latest source code
+Newest packages and announcements posted by the R-core team and package authors
+https://www.r-project.org/news.html
+
+## View code online
+Within the program, the R Core Team provides about eight packages within the R distribution 
+and many more are available through the CRAN family of Internet sites covering a very wide 
+range of modern statistics.
+
+## Contributing
+This link below shows how to import and export R data in R itself or via packages from CRAN
+https://cran.r-project.org/manuals.html
+You can also use this page to write your own R extensions to create your own packages.
+
+## Active?
+Yes, very active all over the world. Looking at the archived messages on the R website, the lastest 
+message was submitted August 31st, 2017 by the R Core Team.
+
+## Other
+It is amazing how expansive R is and how the utilization of the internet and open source 
+has created a vast community developing upon itelf to utilize an integrated suite of 
+software facilities for data manipulation, calculation and graphical display.
